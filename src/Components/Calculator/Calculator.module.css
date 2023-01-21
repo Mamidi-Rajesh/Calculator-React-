@@ -1,0 +1,42 @@
+
+.container{
+margin: 9rem 0rem 0rem 40rem;
+}
+.container input{
+    background-color: black;
+    padding: 2rem;
+    width: 28.5%;
+    color: white;
+    font-weight: bold;
+    font-size: 1.5rem;
+    text-align: right;
+}
+
+.keypad button{
+    width: 5rem;
+    height: 5rem;
+    margin-top:3px;
+    font-size: 1.3rem;
+   border-width: 0.3px solid black;
+   
+}
+
+.keypad button:hover{
+    background-color: lightgray;
+}
+
+.operators {
+    background-color: orange;
+}
+
+.clear{
+    padding-top: 2px;
+}
+
+.clear button{
+    padding: 1.5rem 9.8rem 1.5rem 10rem;
+    font-size: 1.3rem;
+    background-color: rgb(225, 222, 222);
+}
+
+
